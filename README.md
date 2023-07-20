@@ -1,5 +1,2 @@
-<h1>sql_cpf_validation</h1>
-function MSSQL to cpf validation
-```
-Orientações
-```
+<h1>github Learn</h1>
+Uso de recursos para aprender a usar o github
